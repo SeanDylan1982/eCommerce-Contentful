@@ -1,10 +1,10 @@
 @import url("https://fonts.googleapis.com/css?family=Lato:400,700");
 
 :root {
-  --primaryColor: #f09d51;
-  --mainWhite: #fff;
-  --mainBlack: #222;
-  --mainGrey: #ececec;
+  --primaryColor: #d6781f;
+  --mainWhite: #f1f1f1;
+  --mainBlack: #1a1a1a;
+  --mainGrey: #a1a1a1;
   --mainSpacing: 0.1rem;
   --mainTransition: all 0.3s linear;
 }
